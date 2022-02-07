@@ -1,0 +1,24 @@
+body{
+    font-family:arial;
+}
+
+table,th,td{
+    border : 1px solid black;
+    border-collapse: collapse;
+    padding :7px;
+}
+
+table{
+    height: 70%; 
+}
+
+th{
+    background-color:#E9E5E5;
+    text-align: left;
+}
+
+.hidden{
+    border: none;
+}
+
+
